@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mamun Or Rashid</h1>
-<h3 align="center">A passionate wed developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Real Estate Projects](https://mamun.wdpf55.com)
 
